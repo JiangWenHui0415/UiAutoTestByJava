@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="830edc03-0d38-4df2-9b36-925faa51a76d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/utils/ReportUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/utils/ReportUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/purang/camp/uiautotest/testcase/point/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/purang/camp/uiautotest/testcase/point/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ReportUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ReportUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ReportUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ReportUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/report-purang.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report-purang.html" afterDir="false" />
-    </list>
+    <list default="true" id="830edc03-0d38-4df2-9b36-925faa51a76d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -56,7 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/tools/autoIT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -64,6 +56,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UiAutoTestByJava\src\main\java\com" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SVN\05test\CampUIAutoTest\src\main\java\com\purang\camp\uiautotest\tools\autoIT" />
       <recent name="D:\SVN\05test\CampUIAutoTest\exec" />
@@ -180,24 +175,6 @@
     <supportedVersion>125</supportedVersion>
     <option name="runUnderTerminal" value="true" />
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\SVN\05test\CampUIAutoTest" />
-          <option name="myCopyRoot" value="D:\SVN\05test\CampUIAutoTest" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\SVN\05test\CampUIAutoTest" />
-          <option name="myCopyRoot" value="D:\SVN\05test\CampUIAutoTest" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="830edc03-0d38-4df2-9b36-925faa51a76d" name="Default Changelist" comment="" />
@@ -211,6 +188,7 @@
       <workItem from="1567135691221" duration="22942000" />
       <workItem from="1567405352558" duration="116000" />
       <workItem from="1567407671552" duration="59937000" />
+      <workItem from="1567752458753" duration="1573000" />
     </task>
     <task id="LOCAL-00001" summary="req #000 jwh">
       <created>1567413444835</created>
