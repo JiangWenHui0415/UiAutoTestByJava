@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testResults>
+    <testResult>
+        <id>@13784</id>
+        <suiteName>webdriver autotest suite</suiteName>
+        <className>com.fudax.udemo.testcase.DemoCase</className>
+        <context>org.testng.TestRunner@7ac296f6</context>
+        <instance>com.fudax.udemo.testcase.DemoCase</instance>
+        <contextGroups/>
+        <methodName>baiduSearchExam</methodName>
+        <methodGroups/>
+        <methodInvocationTotalCount>1</methodInvocationTotalCount>
+        <methodThreadCount>0</methodThreadCount>
+        <methodCurrentInvocationCount>1</methodCurrentInvocationCount>
+        <methodStatus>PASS</methodStatus>
+        <methodExecutionStartTime>14:06:24</methodExecutionStartTime>
+        <methodExecutionEndTime>14:06:30</methodExecutionEndTime>
+        <methodExecutionTotalTime>5928</methodExecutionTotalTime>
+        <annotation>Test_Method</annotation>
+    </testResult>
+    <suites>
+        <suiteNames/>
+        <currentSuiteName>webdriver autotest suite</currentSuiteName>
+        <groups/>
+        <parallel>none</parallel>
+        <testMethods dataProvider="1">
+            <testMethod>baiduSearchExam</testMethod>
+        </testMethods>
+    </suites>
+</testResults>

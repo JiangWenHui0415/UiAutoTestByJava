@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="webdriver autotest suite" verbose="0" preserve-order="true">
+<!--    <parameter name="indexUrl" value="https://testcamp.purang.com/index.html"></parameter>-->
+<!--    <parameter name="backUrl" value="https://testcamp.purang.com/index.html"></parameter>-->
+    <test name="Register">
+        <classes>
+<!--            <class name="com.purang.camp.uiautotest.testcase.register.Register"/>-->
+            <class name="com.purang.camp.uiautotest.testcase.login.Login"/>
+            <class name="com.purang.camp.uiautotest.testcase.point.Point"/>
+<!--            <class name="com.purang.camp.uiautotest.testcase.comment.Comment"/>-->
+        </classes>
+    </test>
+    <!-- <test name="Login_personal">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.personalcenter.Login_personal">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+
+    <test name="IdentityCertify">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.personalcenter.IdentityCertify">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test name="UserMenu">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.personalcenter.UserMenu">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+     <test name="LoanRequest">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.loan.LoanRequest">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test name="FillInfo">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.loan.FillInfo">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test name="LoanApprove">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.loan.LoanApprove">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test name="MarketBuy">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.market.MarketBuy">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+<test name="MarketJob">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.market.MarketJob">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test name="MarketSale">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.market.MarketSale">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test name="information">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.information.Information">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test name="deposit">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.depositandwithdraw.deposit.Deposit">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test name="withdraw">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.depositandwithdraw.withdraw.Withdraw">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test name="services">
+        <classes>
+            <class name="com.purang.yyt_uiautotest.testcase.service.Services">
+
+                <methods>
+                    <include name="reguser"></include>
+                </methods>
+            </class>
+
+        </classes>
+
+    </test> -->
+    <listeners>
+        <listener class-name="com.purang.camp.uiautotest.utils.ExtentTestNGIReporterListener" />
+    </listeners>
+</suite>

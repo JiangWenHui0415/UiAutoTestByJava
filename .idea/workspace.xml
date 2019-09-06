@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="830edc03-0d38-4df2-9b36-925faa51a76d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/utils/ReportUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/utils/ReportUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/purang/camp/uiautotest/testcase/point/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/purang/camp/uiautotest/testcase/point/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ReportUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ReportUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ReportUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/purang/camp/uiautotest/utils/ReportUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/report-purang.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report-purang.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q5mqRjwyB8FTebDEvEUixQ00d0" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/purang/camp/uiautotest/tools/autoIT" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SVN\05test\CampUIAutoTest\src\main\java\com\purang\camp\uiautotest\tools\autoIT" />
+      <recent name="D:\SVN\05test\CampUIAutoTest\exec" />
+      <recent name="D:\SVN\05test\CampUIAutoTest\target" />
+      <recent name="D:\SVN\05test\CampUIAutoTest" />
+      <recent name="D:\SVN\05test\CampUIAutoTest\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/SVN/05test/CampUIAutoTest/task/purang_testng.xml">
+    <configuration name="D:/SVN/05test/CampUIAutoTest/task/purang_testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CampUIAutoTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/task/purang_testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CampUIAutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.purang.camp.uiautotest.testcase.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.purang.camp.uiautotest.testcase.login" />
+      <option name="MAIN_CLASS_NAME" value="com.purang.camp.uiautotest.testcase.login.Login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CampUIAutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.purang.camp.uiautotest.testcase.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.purang.camp.uiautotest.testcase.login" />
+      <option name="MAIN_CLASS_NAME" value="com.purang.camp.uiautotest.testcase.login.Login" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CampUIAutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.purang.camp.uiautotest.testcase.register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.purang.camp.uiautotest.testcase.register" />
+      <option name="MAIN_CLASS_NAME" value="com.purang.camp.uiautotest.testcase.register.Register" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register.register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CampUIAutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.purang.camp.uiautotest.testcase.register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.purang.camp.uiautotest.testcase.register" />
+      <option name="MAIN_CLASS_NAME" value="com.purang.camp.uiautotest.testcase.register.Register" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/SVN/05test/CampUIAutoTest/task/purang_testng.xml" />
+        <item itemvalue="TestNG.Register.register" />
+        <item itemvalue="TestNG.Register" />
+        <item itemvalue="TestNG.Login" />
+        <item itemvalue="TestNG.Login.login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Users\jiangwenhui\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\SVN\05test\CampUIAutoTest" />
+          <option name="myCopyRoot" value="D:\SVN\05test\CampUIAutoTest" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\SVN\05test\CampUIAutoTest" />
+          <option name="myCopyRoot" value="D:\SVN\05test\CampUIAutoTest" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="830edc03-0d38-4df2-9b36-925faa51a76d" name="Default Changelist" comment="" />
+      <created>1567069021870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567069021870</updated>
+      <workItem from="1567069025762" duration="497000" />
+      <workItem from="1567069778165" duration="3819000" />
+      <workItem from="1567133090715" duration="2534000" />
+      <workItem from="1567135691221" duration="22942000" />
+      <workItem from="1567405352558" duration="116000" />
+      <workItem from="1567407671552" duration="59937000" />
+    </task>
+    <task id="LOCAL-00001" summary="req #000 jwh">
+      <created>1567413444835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567413444835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="req #002 jwh_register">
+      <created>1567480423333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567480423333</updated>
+    </task>
+    <task id="LOCAL-00003" summary="req #002 jwh_register1">
+      <created>1567499968036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567499968036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="req #002 jwh_register2">
+      <created>1567504060752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567504060752</updated>
+    </task>
+    <task id="LOCAL-00005" summary="req #002 jwh_register_ok">
+      <created>1567576560871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567576560871</updated>
+    </task>
+    <task id="LOCAL-00006" summary="req #002 jwh_comment">
+      <created>1567578725586</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567578725586</updated>
+    </task>
+    <task id="LOCAL-00007" summary="req #002 jwh_register_end">
+      <created>1567580440863</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567580440863</updated>
+    </task>
+    <task id="LOCAL-00008" summary="req #003 jwh">
+      <created>1567731653902</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567731653902</updated>
+    </task>
+    <task id="LOCAL-00009" summary="req #003 jwh_switch_handle">
+      <created>1567737589450</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1567737589450</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add point" />
+    <MESSAGE value="req#000" />
+    <MESSAGE value="req #000 jwh" />
+    <MESSAGE value="req #002 jwh_register" />
+    <MESSAGE value="req #002 jwh_register1" />
+    <MESSAGE value="req #002 jwh_register2" />
+    <MESSAGE value="req #002 jwh_register_ok" />
+    <MESSAGE value="req #002 jwh_comment" />
+    <MESSAGE value="req #002 jwh_register_end" />
+    <MESSAGE value="req #003 jwh" />
+    <MESSAGE value="req #003 jwh_switch_handle" />
+    <option name="LAST_COMMIT_MESSAGE" value="req #003 jwh_switch_handle" />
+  </component>
+</project>
