@@ -44,6 +44,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Q5mqRjwyB8FTebDEvEUixQ00d0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -188,7 +189,7 @@
       <workItem from="1567135691221" duration="22942000" />
       <workItem from="1567405352558" duration="116000" />
       <workItem from="1567407671552" duration="59937000" />
-      <workItem from="1567752458753" duration="1573000" />
+      <workItem from="1567752458753" duration="1836000" />
     </task>
     <task id="LOCAL-00001" summary="req #000 jwh">
       <created>1567413444835</created>
@@ -253,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567737589450</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1567758843160</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567758843160</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +279,7 @@
     <MESSAGE value="req #002 jwh_register_end" />
     <MESSAGE value="req #003 jwh" />
     <MESSAGE value="req #003 jwh_switch_handle" />
-    <option name="LAST_COMMIT_MESSAGE" value="req #003 jwh_switch_handle" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
